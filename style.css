@@ -1,0 +1,13 @@
+body {
+    font-family: Times New Roman;
+    text-align: center;
+    margin: 30px;
+    font-size: 20px;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: blue;
+    font size: 18px;
+}
