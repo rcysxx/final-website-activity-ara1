@@ -1,0 +1,15 @@
+git add .
+git commit -m "Initial upload of static website"
+git push -u origin main
+git add index.html
+git commit -m "Updated Home page text"
+git push
+git add product.html
+git commit -m "Updated Product page content"
+git push
+git add about.html
+git commit -m "Updated About Us page"
+git push
+git add contact.html
+git commit -m "Updated Contact Us page details"
+git push
